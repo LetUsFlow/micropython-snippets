@@ -1,5 +1,5 @@
 # micropython-snippets
-A small collections of MicroPython scripts for ESP32
+A small collection of MicroPython scripts for ESP32
 
 
 ## Sensors
